@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../library"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../pesa-pal"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "../user"
+		},
+		{
+			"path": "../author"
+		},
+		{
+			"path": "../client"
+		},
+		{
+			"path": "../cover"
+		}
+	],
+	"settings": {}
+}
